@@ -1,0 +1,1 @@
+ALTER TABLE alunos ADD COLUMN email VARCHAR NOT NULL DEFAULT 'default@mail.com';
